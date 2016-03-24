@@ -245,7 +245,7 @@ dd.ready(function(){
 			    onSuccess : function() {
 			    //onSuccess将在点击发送之后调用
 			    },
-			    onFail : function() {}
+			    onFail : function() {  }
 			});
 		});
 	 $('#participantname').on('click', function () {
